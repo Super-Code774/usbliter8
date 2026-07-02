@@ -25,7 +25,10 @@ Here is a list of the boards we tested the exploit on:
 * Pimoroni TINY2350
 * Raspberry Pi Pico 2
 
-RP2040 can be theoretically used as well, but this is currently **NOT** very stable and Apple A13 SoC does **NOT** work at all.
+RP2040 can be theoretically used as well, but this is currently **NOT** very stable.
+
+ 
+ Apple A13 SoC does **NOT** work at all.
 
 ### Flashing firmware
 
